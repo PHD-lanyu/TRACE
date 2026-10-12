@@ -1,6 +1,6 @@
 # TRACE
 
-Source code for **“Parameters vs. Context: TRACE Fine-Tuning for Robust Retrieval-Augmented Generation.”** TRACE uses debate traces to train a retrieval-augmented QA model to select reliable knowledge when its parametric knowledge and retrieved context disagree. Debate is used to build training data; evaluation runs the fine-tuned model in a single pass.
+Source code for **“Parameters vs. Context: TRACE Fine-Tuning for Robust Retrieval-Augmented Generation”**, accepted by ICDM 2026. TRACE uses debate traces to train a retrieval-augmented QA model to select reliable knowledge when its parametric knowledge and retrieved context disagree. Debate is used to build training data; evaluation runs the fine-tuned model in a single pass.
 
 ![TRACE framework](framework.png)
 
